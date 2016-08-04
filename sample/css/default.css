@@ -1,0 +1,34 @@
+.box {
+  width: 400px;
+  height: 300px;
+  /*background-color: firebrick;*/
+  background-color: #b22222;
+  /* red: b2; b- 11 2 */  
+  background-color: rgba(176,34,34,.5);
+}
+.big {
+  font-size: 64px;
+}
+ul {
+  font-size: 2em;
+  list-style-image: url('http://66.media.tumblr.com/aa03286fcdea3f09dde1a9546293cc46/tumblr_nrzfx0JZo91r9nwnbo1_1280.jpg');
+  list-style:none;
+}
+.box .happy {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.box, .big {
+  color: pink;
+}
+
+
+.storage .box {
+  display: none;
+}
+
+
+
+
